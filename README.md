@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Shubh Purwar
-- 👀 I’m interested in Front End development
-- 🌱 I’m currently learning HTML,CSS,JS
-- 💞️ I’m looking to collaborate on Open Source Project
+- 👀 I’m evolving as a Full Stack Developer
+- 🌱 I’m currently employeed as a Software Engineer L2 at Gemini Solutions Pvt. Ltd.
+- 💞️ I’m looking for new opportunities to improve my current standings.
 - 📫 You can contact through mail: shubhpurwar22@gmail.com
+- 👨‍💻 Skills - React.js, Angular.js, Next.js, Node.js, Javascript, Typescript, MongoDB, Bootstrap, Tailwind, Sass, AWS (S3, lambda, EC2, OCR)
 
 <!---
 striver01/striver01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
